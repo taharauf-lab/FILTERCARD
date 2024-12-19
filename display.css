@@ -1,0 +1,28 @@
+/* p{ */
+/* display: inline; */
+/* } */
+
+/* .one{ */
+/* background-color: aqua; */
+/* display: none; */
+/* } */
+
+/* .one span{ */
+/* display: block; */
+/* } */
+/* .two{ */
+/* background-color: blue; */
+
+/* } */
+
+#Inline {
+    background-color: aqua;
+    display: inline;
+}
+
+#Inline-block {
+    background-color: blueviolet;
+    display: inline-block;
+    height: 200px;
+    padding: 20px;
+}

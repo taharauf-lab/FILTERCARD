@@ -1,0 +1,16 @@
+.box {
+    width: 400px;
+    height: 250px;
+    border: 2px solid black;
+    background-color: burlywood;
+    overflow: auto;
+
+
+}
+
+.box1 {
+    color: blue;
+
+
+
+}

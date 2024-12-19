@@ -1,0 +1,17 @@
+.box{
+background-color: bisque;
+width: 400px;
+height: 350px;
+overflow: auto;
+position: relative;
+left: 15%;
+/* right: 15px; */
+
+}
+.box1{
+color: blue;
+position: relative;
+/* top: 15%; */
+/* bottom: 15%; */
+/* left: 15%; */
+}
